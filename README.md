@@ -6,7 +6,7 @@
     2.日期时间的格式化输出
 
 ## 版本库地址
-* HTTP协议: `https://github.com/ichunming/joda.git`
+* HTTPS协议: `https://github.com/ichunming/joda.git`
 * SSH协议: `git@github.com:ichunming/joda.git`
 
 ## 克隆版本库
